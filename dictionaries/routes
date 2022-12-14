@@ -192,3 +192,4 @@ videoinput_1/h264_1/media.stm
 videostream.asf
 vis
 wfov
+cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
